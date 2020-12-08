@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/daniprol/daniprol/main/math_banner.jpg" width="1650" height="250" />
+
 <h1 align="center">Hi everyone 👋, Daniel here!</h1>
 <h3 align="center">Mathematician, web developer, bball enthusiast</h3>
 
